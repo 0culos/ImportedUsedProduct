@@ -1,0 +1,14 @@
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\bin\Debug\netcoreapp3.1\ImportedUsedProduct.exe
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\bin\Debug\netcoreapp3.1\ImportedUsedProduct.deps.json
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\bin\Debug\netcoreapp3.1\ImportedUsedProduct.runtimeconfig.json
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\bin\Debug\netcoreapp3.1\ImportedUsedProduct.runtimeconfig.dev.json
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\bin\Debug\netcoreapp3.1\ImportedUsedProduct.dll
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\bin\Debug\netcoreapp3.1\ImportedUsedProduct.pdb
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\obj\Debug\netcoreapp3.1\ImportedUsedProduct.csproj.AssemblyReference.cache
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\obj\Debug\netcoreapp3.1\ImportedUsedProduct.GeneratedMSBuildEditorConfig.editorconfig
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\obj\Debug\netcoreapp3.1\ImportedUsedProduct.AssemblyInfoInputs.cache
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\obj\Debug\netcoreapp3.1\ImportedUsedProduct.AssemblyInfo.cs
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\obj\Debug\netcoreapp3.1\ImportedUsedProduct.csproj.CoreCompileInputs.cache
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\obj\Debug\netcoreapp3.1\ImportedUsedProduct.dll
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\obj\Debug\netcoreapp3.1\ImportedUsedProduct.pdb
+J:\Programação C#\ImportedUsedProduct\ImportedUsedProduct\obj\Debug\netcoreapp3.1\ImportedUsedProduct.genruntimeconfig.cache
